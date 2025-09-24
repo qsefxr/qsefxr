@@ -18,6 +18,7 @@
 - [Coding Magic](https://github.com/Efenzik/coding-magic) – team project using **JavaScript** 
 - [Antools](https://github.com/Efenzik/Antools) – personal project, simple **website layout**
 
+![girl](https://github.com/user-attachments/assets/010c8ffe-ccfc-4185-ab50-fbdc8ff86cda)
 
-![zxc](https://github.com/user-attachments/assets/5febaad9-20de-417e-9072-b0a5e801d233)
+
 
