@@ -13,7 +13,7 @@
 
 📂 **Projects:**  
 - [Coding Magic](https://github.com/Efenzik/coding-magic) – team project using **JavaScript** 
-- [Antools](https://github.com/Efenzik/Antools) – personal project, simple **website layout**
+- [EcoEats](https://github.com/qsefxr/EcoEats) - personal project, simple **website layout**
 
 
 
